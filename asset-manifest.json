@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/troyes-town-crier/static/css/main.036405f5.css",
-    "main.js": "/troyes-town-crier/static/js/main.210a4815.js",
+    "main.css": "/troyes-town-crier/static/css/main.9ceb7d23.css",
+    "main.js": "/troyes-town-crier/static/js/main.6694f98b.js",
     "static/js/453.f5463fec.chunk.js": "/troyes-town-crier/static/js/453.f5463fec.chunk.js",
     "service-worker.js": "/troyes-town-crier/service-worker.js",
     "index.html": "/troyes-town-crier/index.html",
-    "main.036405f5.css.map": "/troyes-town-crier/static/css/main.036405f5.css.map",
-    "main.210a4815.js.map": "/troyes-town-crier/static/js/main.210a4815.js.map",
+    "main.9ceb7d23.css.map": "/troyes-town-crier/static/css/main.9ceb7d23.css.map",
+    "main.6694f98b.js.map": "/troyes-town-crier/static/js/main.6694f98b.js.map",
     "453.f5463fec.chunk.js.map": "/troyes-town-crier/static/js/453.f5463fec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.036405f5.css",
-    "static/js/main.210a4815.js"
+    "static/css/main.9ceb7d23.css",
+    "static/js/main.6694f98b.js"
   ]
 }
